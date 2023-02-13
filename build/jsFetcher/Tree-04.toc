@@ -1,0 +1,5 @@
+('/opt/homebrew/lib/python3.10/site-packages/urllib3-1.26.12-py3.10.egg',
+ None,
+ {'*.so', 'EGG-INFO', '*.pyc', '*.abi3.so', '*.py', '*.cpython-310-darwin.so'},
+ 'DATA',
+ [])

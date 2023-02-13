@@ -1,0 +1,10 @@
+('/opt/homebrew/lib/python3.10/site-packages/certifi-2022.9.24-py3.10.egg',
+ None,
+ {'*.so', 'EGG-INFO', '*.pyc', '*.abi3.so', '*.py', '*.cpython-310-darwin.so'},
+ 'DATA',
+ [('certifi/py.typed',
+   '/opt/homebrew/lib/python3.10/site-packages/certifi-2022.9.24-py3.10.egg/certifi/py.typed',
+   'DATA'),
+  ('certifi/cacert.pem',
+   '/opt/homebrew/lib/python3.10/site-packages/certifi-2022.9.24-py3.10.egg/certifi/cacert.pem',
+   'DATA')])

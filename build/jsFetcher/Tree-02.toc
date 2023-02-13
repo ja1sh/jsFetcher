@@ -1,0 +1,7 @@
+('/opt/homebrew/lib/python3.10/site-packages/charset_normalizer-2.1.1-py3.10.egg',
+ None,
+ {'*.so', 'EGG-INFO', '*.pyc', '*.abi3.so', '*.py', '*.cpython-310-darwin.so'},
+ 'DATA',
+ [('charset_normalizer/py.typed',
+   '/opt/homebrew/lib/python3.10/site-packages/charset_normalizer-2.1.1-py3.10.egg/charset_normalizer/py.typed',
+   'DATA')])
